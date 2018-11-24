@@ -4,16 +4,20 @@ SSR with a React App
 
 ## Build
 
-Using default create-react-app build and scripts
+Webpack base config merged into seperate dev config and client config.
 
 ## Technologies
 
-React v16, Redux v4
+Webpack v3, Babel v6, Express v4, React v16, Redux v3
 
 ## Branches
 
 1. master
-    * Boilerplate generated using create-react-app
+    * basic webpack + babel boilerplate
+    * DRY webpack config for server and client
+    * isomorphic javascript
+    * basic server setup
+
 
 
 
