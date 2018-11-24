@@ -1,4 +1,4 @@
-# ReactAdvanced
+# ReactSSR
 
 SSR with a React App
 
@@ -18,6 +18,13 @@ Webpack v3, Babel v6, Express v4, React v16, Redux v3
     * isomorphic javascript
     * basic server setup
 
+1. routing
+    *  react-router
+    *  handling routes on backend with StaticRouter
+    *  html mismatch
+    *  routing tiers
 
+1. redux
+    *  integrating support for redux
 
 
