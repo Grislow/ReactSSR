@@ -37,6 +37,8 @@ Webpack v3, Babel v6, Express v4, React v16, Redux v3
     *  custom axios instances for server and client
     *  nested routes with react-router-config
     *  touch of styling with materializecss
-    
+
+1. error
+    *  404 not found page
 
 
