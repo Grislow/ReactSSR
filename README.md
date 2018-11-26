@@ -26,5 +26,10 @@ Webpack v3, Babel v6, Express v4, React v16, Redux v3
 
 1. redux
     *  integrating support for redux
+    *  client-side and server-side store
+    *  server-side data loading with react-router-config
+    *  page components
+    *  state sanitizing with serialize-javascript
+    
 
 
