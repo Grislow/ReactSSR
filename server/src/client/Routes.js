@@ -2,6 +2,7 @@ import React from 'react';
 
 import HomePage from './pages/HomePage';
 import UsersListPage from './pages/UsersListPage';
+import NotFoundPage from "./pages/NotFoundPage";
 import App from './App';
 
 
@@ -20,6 +21,9 @@ export default [
                 // adds all properties exported from UsersListPage with the same names
                 ...UsersListPage,
                 path: '/users',
+            },
+            {
+                ...NotFoundPage
             }
         ]
     }
