@@ -20,7 +20,7 @@ class UsersList extends React.Component {
         return (
             <div>
                 <ul>
-                    Big list of users
+                    <h5>List of users</h5>
                     {this.renderUsers()}
                 </ul>
             </div>
