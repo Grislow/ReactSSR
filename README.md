@@ -40,5 +40,8 @@ Webpack v3, Babel v6, Express v4, React v16, Redux v3
 
 1. error
     *  404 not found page
+    *  StaticRouter context
+    *  handling Promise.all failures
+    *  requireAuth HOC
 
 
