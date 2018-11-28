@@ -44,4 +44,11 @@ Webpack v3, Babel v6, Express v4, React v16, Redux v3
     *  handling Promise.all failures
     *  requireAuth HOC
 
+1. seo
+    * react-helmet in an ssr env
+    * ogp
+    * dynamic title tags
+    * RenderToString vs RenderToNodeStream
+    
+
 
